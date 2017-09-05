@@ -1,0 +1,3 @@
+[submodule "intro-numerical-methods"]
+	path = intro-numerical-methods
+	url = https://github.com/mandli/intro-numerical-methods.git
